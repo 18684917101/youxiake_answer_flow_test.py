@@ -36,9 +36,7 @@ START_PATH = "/api/topic/web/h5/activity/question/start/answer"
 SAVE_PATH = "/api/topic/web/h5/activity/question/save/answer"
 END_PATH = "/api/topic/web/h5/activity/question/end/answer"
 DEFAULT_AUTH = (
-    "Bearer "
-    "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxNDAyODk3NyIsImlhdCI6MTc3OTUzMjQ3NywiZXhwIjoxNzgyMTI0NDc3LCJuYmYiOjE3Nzk1MzI0Nzd9."
-    "Hlt3G6YOWbhXDeE8Ao3mYdKYSrkkml9Hxgv8prJ58sU"
+    "Bearer eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxNDkxMzM2NiIsImlhdCI6MTc4MDQ1MzI0OSwiZXhwIjoxNzgzMDQ1MjQ5LCJuYmYiOjE3ODA0NTMyNDl9.EiWfwJ8OQ06_GrV-2wgijEoHmgPbSINoVYXrrFZ2mXU"
 )
 
 
